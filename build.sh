@@ -1,0 +1,1 @@
+mvn clean compiler:compile assembly:single
