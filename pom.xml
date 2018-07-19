@@ -11,8 +11,6 @@
         <module>Exam1</module>
         <module>Exam2</module>
         <module>Exam3</module>
-        <module>Exam4</module>
-        <module>Exam5</module>
     </modules>
     <packaging>pom</packaging>
 
